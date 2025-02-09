@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Volume 1. Good Volume on Hugo-Tufte Theme Example Site</title>
+    <title>Volume 1. Good Volume on IronQuest 70.3</title>
     <link>http://localhost:1313/a-book/vol-1/</link>
-    <description>Recent content in Volume 1. Good Volume on Hugo-Tufte Theme Example Site</description>
+    <description>Recent content in Volume 1. Good Volume on IronQuest 70.3</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <atom:link href="http://localhost:1313/a-book/vol-1/index.xml" rel="self" type="application/rss+xml" />
